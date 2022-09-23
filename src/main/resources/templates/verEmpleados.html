@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>LISTA DE USUARIOS</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <style>
+    a{
+    color:white;
+    }
+    a:hover {
+    color: black;
+    text-decoration:none;
+    }
+</style>
+    <!--estilo fuente texto blanco para el encabezado de la tabla-->
+    <style>
+    th{
+    color:white;
+    }
+    th:hover {
+    color: black;
+    text-decoration:none;
+    }
+</style>
+    <!--estilo imagen de fondo-->
+    <style>
+body{
+    margin: 0;
+    padding: 0;
+    background: url(images/fondoEmpresas.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    background-attachment: fixed;
+}
+</style>
+
+</head>
+<body>
+    <header style="background-color: rgb(62, 128, 191);">
+        <div class="container">
+            <div style="float:left">
+                <h1 style="color:white ;">CONTABILIDAD-LISTA DE EMPLEADOS</h1>
+            </div>
+            <div style="float:right">
+                <h3 th:inline="text" class="text-right" style="color:white ;">User: [[${#httpServletRequest.remoteUser}]]</h3>
+                <button type="button" class="btn btn-danger" style="float:right">
+                    <a th:href="@{/logoutPage}">Cerrar Sesión</a>
+                </button>
+            </div>
+        </div>
+        <br>
+    </header>
+
+<div class="container">
+
+    <br>
+    <p>Click en la opcion deseada:</p>
+    <div class="btn-group">
+        <button type="button" class="btn btn-primary"><a th:href="@{/AgregarEmpleado}">Agregar Nuevo Empleado</a></button> <!-- vamos a crear un boton que sirva para agregar nuevos empleados -->
+        <button type="button" class="btn btn-info"><a th:href="@{/HomePage}">IR AL INICIO</a></button> <!-- boton que me lleva a la lista de empresas -->
+        <button type="button" class="btn btn-primary"><a href="javascript: history.go(-1)" >IR ATRAS</a></button>
+    </div>
+    <br><br>
+
+    <!--Dibujamos la tabla-->
+    <br><table class="table table-bordered table-striped">
+    <tr style="background-color: rgb(62, 128, 191);"> <!--https://htmlcolorcodes.com/es/--><!--SE RELLENA EL ENCABEZADO-->
+        <th>ID</th>
+        <th>NOMBRE</th>
+        <th>CORREO</th>
+        <th>EMPRESA</th>
+        <th>ROL</th>
+        <th>ESTADO</th>
+        <th class="text-center">MOVIMIENTOS/EMPLEADO</th>
+        <th class="text-center">EDITAR</th>
+        <th class="text-center">ELIMINAR</th>
+    </tr>
+
+    <!--Llenamos la tabla dibujada-->
+    <!--En nuestro controller, creamos en viewEmpleados un modelo con un atributo llamado emplelist donde esta guardada la lista de todos los empleados-->
+    <tr th:each="empleado : ${emplelist}">
+        <td th:text="${empleado.id}"></td>
+        <td th:text="${empleado.nombre}"></td>
+        <td th:text="${empleado.correo}"></td>
+        <td th:text="${empleado.empresa.nombre}"></td>
+        <td th:if="${empleado.rol=='ROLE_ADMIN'}">Administrativo</td>
+        <td th:if="${empleado.rol=='ROLE_USER'}">Operativo</td>
+        <td th:if="${empleado.estado==true}">Activo</td>
+        <td th:if="${empleado.estado==false}">Inactivo</td>
+        <td class="text-center"><button type="button" class="btn btn-primary"><a th:href="@{/Empleado/{id}/Movimientos(id=${empleado.id})}">Ver</a></button></td>
+        <td class="text-center"><button type="button" class="btn btn-primary"><a th:href="@{/EditarEmpleado/{id}(id=${empleado.id})}">Editar</a></button></td>
+        <td class="text-center"><button type="button" class="btn btn-danger"><a th:href="@{/EliminarEmpleado/{id}(id=${empleado.id})}">Eliminar</a></button></td>
+    </tr>
+</table>
+</div>
+
+<script th:inline="javascript">
+    window.onload=function(){
+
+        var msg= [[${mensaje}]];
+        if (msg == "saveOK"){
+            Command : toastr["success"]("Empleado registrado con éxito!")
+            }
+        else if (msg == "updateOK"){
+            Command : toastr["success"]("Empleado actualizado con éxito!")
+        }
+        else if (msg == "deleteOK"){
+            Command : toastr["error"]("Registro de empleado eliminado con éxito!")
+        }
+        else if (msg == "deleteError"){
+            Command : toastr["error"]("Registro de empleado no ha sido eliminado!")
+        }
+        toastr.options={
+            "positionClass": "toast-top-right",
+            "showDuration":"300",
+            "showMethod":"fadeIn",
+            "hideMethod":"fadeOut",
+        }
+
+
+    }
+
+</script>
+</body>
+</html>
+
