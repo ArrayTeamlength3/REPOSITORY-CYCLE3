@@ -29,20 +29,31 @@
     text-decoration:none;
     }
 </style>
-    ara llenar los datos del movimiento y guardarlo en el objeto mov -->
-    <form th:action="@{/GuardarMovimiento}" th:object="${mov}" method="post">
-        <div class="row">
-            <div class="form-group col-md-12">
-                <label class="col-md-3" for="concepto">Concepto del movimiento:</label>
-                <div class="col-md-6">
-                    <select th:field="*{concepto}",class="form-control",id=concepto,required="required">
-                        <option th: value=1>Servicios de Hotel</option>
-                        <option th: value=2>Papeleria</option>
-                        <option th: value=2>Tributarios</option>
-                        <option th: value=2>Operativos</option>
-                        <option th: value=2>Salud</option>
-                    </select>
-                </div>
-            </div>
+    <!--estilo imagen de fondo-->
+    <style>
+body{
+    margin: 0;
+    padding: 0;
+    background: url(images/fondoEmpresas.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    background-attachment: fixed;
+}
+</style>
+</head>
+<body>
+<header style="background-color: rgb(62, 128, 191);">
+    <div class="container">
+        <div style="float:left">
+            <h1 style="color:white ;">CONTABILIDAD-LISTA DE MOVIMIENTOS</h1>
         </div>
-
+        <div style="float:right">
+            <h3 th:inline="text" class="text-right" style="color:white ;">User: [[${#httpServletRequest.remoteUser}]]</h3>
+            <button type="button" class="btn btn-danger" style="float:right">
+                <a th:href="@{/logoutPage}">Cerrar Sesión</a>
+            </button>
+        </div>
+    </div>
+    <br>
+</header>
