@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="859a092d-9cf6-422f-8e09-35897b6565e2" name="Changes" comment="Se cambia la fuente en negro por fuente en blanco de los encabezados de las tablas" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="release" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2E91Ig2wlfwUN0zLQhw60YJxBR9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "T:/MEGA2/00GITHUB/REPOSITORY-CYCLE3",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="ProyectoArrayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Ciclo3.ProyectoArray.ProyectoArrayApplication" />
+      <module name="ProyectoArray" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Ciclo3.ProyectoArray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProyectoArrayApplication" />
+        <item itemvalue="Application.ProyectoArrayApplication" />
+        <item itemvalue="Application.ProyectoArrayApplication" />
+        <item itemvalue="Application.ProyectoArrayApplication" />
+        <item itemvalue="Application.ProyectoArrayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="859a092d-9cf6-422f-8e09-35897b6565e2" name="Changes" comment="" />
+      <created>1661992908336</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661992908336</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Inicializando Proyecto con Spring Boot">
+      <created>1662049067120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662049067120</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Agregar RestController">
+      <created>1662411299276</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1662411299276</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Prueba de primer mensaje de saludo">
+      <created>1662415824141</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662415824141</updated>
+    </task>
+    <task id="LOCAL-00004" summary="////hasta aqui ya se instancio una empresa se definieron los datos iniciales, y luego se renombro">
+      <created>1662420971363</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662420971363</updated>
+    </task>
+    <task id="LOCAL-00005" summary="nueva sincronizacion">
+      <created>1662606889245</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662606889245</updated>
+    </task>
+    <task id="LOCAL-00006" summary="nuevos paquetes">
+      <created>1662607065073</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662607065073</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Se inicializan las plantillas html">
+      <created>1662752963581</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1662752963581</updated>
+    </task>
+    <task id="LOCAL-00008" summary="se agrega el codigo para enlazar la aplicacion a postgresql">
+      <created>1662754633283</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662754633283</updated>
+    </task>
+    <task id="LOCAL-00009" summary="inicializamos servicio Movimientosdinero y repositorio de movimientos">
+      <created>1662818628083</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1662818628083</updated>
+    </task>
+    <task id="LOCAL-00010" summary="correccion de algunos bugs en el codigo">
+      <created>1662935959704</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662935959704</updated>
+    </task>
+    <task id="LOCAL-00011" summary="correccion de algunos bugs en el codigo2">
+      <created>1662936167305</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662936167305</updated>
+    </task>
+    <task id="LOCAL-00012" summary="se crea HEAD de la vista(html) para lista de empresas">
+      <created>1662936292158</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662936292158</updated>
+    </task>
+    <task id="LOCAL-00013" summary="se agreda BODY de la vista(html) para lista de empresas">
+      <created>1662936341443</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662936341443</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Se corrige el metodo de autogeneracion del id de AUTO A IDENTITY en la clase Empleado">
+      <created>1662936979669</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1662936979669</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Se corrige el metodo de autogeneracion del id de AUTO A IDENTITY en la clase Empresa">
+      <created>1662937022771</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1662937022771</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Se corrige el metodo de autogeneracion del id de AUTO A IDENTITY en la clase movdin">
+      <created>1662937062120</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1662937062120</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Se depura el codigo ante errores o issues reportados por IntelliJ IDEA">
+      <created>1662939016151</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1662939016151</updated>
+    </task>
+    <task id="LOCAL-00018" summary="la apliacion hasta el SPRINT3 esta funcional&#10;con los requests GET, POST,PATCH, DELETE.&#10;ya puede pasarse el avance de la apliacion a la rama release.">
+      <created>1662939613893</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1662939613893</updated>
+    </task>
+    <task id="LOCAL-00019" summary="rama release.">
+      <created>1662940146859</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1662940146859</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Se actualiza el controlador para empresa">
+      <created>1663253279422</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1663253279422</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Se actualiza el controlador para empleado">
+      <created>1663253398557</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1663253398557</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Se actualiza el controlador para Movimientos">
+      <created>1663253661996</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1663253661996</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Se realiza la plantilla html para agregar nuevo empleado">
+      <created>1663254011926</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1663254011926</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Se realiza la plantilla html para agregar nueva empresa">
+      <created>1663254071449</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1663254071449</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Se realiza la plantilla html para Editar Empresa">
+      <created>1663254350169</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1663254350169</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Se realiza la plantilla html para ver lista de empresas">
+      <created>1663254789132</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1663254789132</updated>
+    </task>
+    <task id="LOCAL-00027" summary="ajustes cons las interfaces">
+      <created>1663257597467</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1663257597467</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Se ajustan colores y posicion de los botones en la vista de todas las empresas">
+      <created>1663261674104</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1663261674104</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Se centraron los botones ver empleados, ver movimientos, editar y eliminar que estan en la tabla de La lista de todas las empresas">
+      <created>1663262003380</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1663262003380</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Se ajustan botones en estilos y centrado de la pagina LISTA DE USUARIOS">
+      <created>1663263695613</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1663263695613</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Nuevos ajustes de colores de botones">
+      <created>1663266156968</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1663266156968</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Nuevos ajustes de colores de botones2">
+      <created>1663269315252</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1663269315252</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Se agrego sombreado a los encabezados de las tablas">
+      <created>1663296405470</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1663296405470</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Se agregaron las dependicias para trabajar los protocolos de seguridad">
+      <created>1663296446404</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1663296446404</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Se cambia la fuente en negro por fuente en blanco de los encabezados de las tablas">
+      <created>1663296739982</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1663296739982</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="se agreda BODY de la vista(html) para lista de empresas" />
+    <MESSAGE value="Se corrige el metodo de autogeneracion del id de AUTO A IDENTITY en la clase Empleado" />
+    <MESSAGE value="Se corrige el metodo de autogeneracion del id de AUTO A IDENTITY en la clase Empresa" />
+    <MESSAGE value="Se corrige el metodo de autogeneracion del id de AUTO A IDENTITY en la clase movdin" />
+    <MESSAGE value="Se depura el codigo ante errores o issues reportados por IntelliJ IDEA" />
+    <MESSAGE value="la apliacion hasta el SPRINT3 esta funcional&#10;con los requests GET, POST,PATCH, DELETE.&#10;ya puede pasarse el avance de la apliacion a la rama release." />
+    <MESSAGE value="rama release." />
+    <MESSAGE value="Se actualiza el controlador para empresa" />
+    <MESSAGE value="Se actualiza el controlador para empleado" />
+    <MESSAGE value="Se actualiza el controlador para Movimientos" />
+    <MESSAGE value="Se realiza la plantilla html para agregar nuevo empleado" />
+    <MESSAGE value="Se realiza la plantilla html para agregar nueva empresa" />
+    <MESSAGE value="Se realiza la plantilla html para agregar nuevo movimiento" />
+    <MESSAGE value="Se realiza la plantilla html para Editar Empresa" />
+    <MESSAGE value="Se realiza la plantilla html para Editar movimiento" />
+    <MESSAGE value="Se realiza la plantilla html para ver lista de empresas" />
+    <MESSAGE value="ajustes cons las interfaces" />
+    <MESSAGE value="Se ajustan colores y posicion de los botones en la vista de todas las empresas" />
+    <MESSAGE value="Se centraron los botones ver empleados, ver movimientos, editar y eliminar que estan en la tabla de La lista de todas las empresas" />
+    <MESSAGE value="Se ajustan botones en estilos y centrado de la pagina LISTA DE USUARIOS" />
+    <MESSAGE value="Nuevos ajustes de colores de botones" />
+    <MESSAGE value="Nuevos ajustes de colores de botones2" />
+    <MESSAGE value="Se agrego sombreado a los encabezados de las tablas" />
+    <MESSAGE value="Se agregaron las dependicias para trabajar los protocolos de seguridad" />
+    <MESSAGE value="Se cambia la fuente en negro por fuente en blanco de los encabezados de las tablas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se cambia la fuente en negro por fuente en blanco de los encabezados de las tablas" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.postgresql.util.PSQLException" package="org.postgresql.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
