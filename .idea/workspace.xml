@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;configuraciones finales">
-      <change beforePath="$PROJECT_DIR$/ProyectoArray/src/main/java/com/Ciclo3/ProyectoArray/ProyectoArrayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoArray/src/main/java/com/Ciclo3/ProyectoArray/ProyectoArrayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProyectoArray/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +52,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "T:/MEGA2/00GITHUB/REPOSITORY-CYCLE3"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;T:/MEGA2/00GITHUB/REPOSITORY-CYCLE3&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ProyectoArray" />
