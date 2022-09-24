@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="add" />
+    <list default="true" id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="others2">
+      <change afterPath="$PROJECT_DIR$/ProyectoArray/src/main/resources/templates/graficos/assets/img/error-404-monochrome.svg" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +160,49 @@
       <option name="project" value="LOCAL" />
       <updated>1664058644291</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="graficos">
+      <created>1664058854070</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664058854070</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fondo">
+      <created>1664058913226</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1664058913226</updated>
+    </task>
+    <task id="LOCAL-00014" summary="styles css">
+      <created>1664058952835</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1664058952835</updated>
+    </task>
+    <task id="LOCAL-00015" summary="java scripts">
+      <created>1664059014562</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1664059014562</updated>
+    </task>
+    <task id="LOCAL-00016" summary="others">
+      <created>1664059048471</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1664059048471</updated>
+    </task>
+    <task id="LOCAL-00017" summary="others2">
+      <created>1664059070583</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1664059070583</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +227,12 @@
     <MESSAGE value="all" />
     <MESSAGE value="login page" />
     <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
+    <MESSAGE value="graficos" />
+    <MESSAGE value="fondo" />
+    <MESSAGE value="styles css" />
+    <MESSAGE value="java scripts" />
+    <MESSAGE value="others" />
+    <MESSAGE value="others2" />
+    <option name="LAST_COMMIT_MESSAGE" value="others2" />
   </component>
 </project>
