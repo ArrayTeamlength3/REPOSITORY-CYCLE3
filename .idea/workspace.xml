@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin">
+    <list default="true" id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin2">
+      <change afterPath="$PROJECT_DIR$/ProyectoArray/src/main/java/com/Ciclo3/ProyectoArray/Procfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProyectoArray/system.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProyectoArray/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoArray/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664061108265</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin2">
+      <created>1664061254840</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1664061254840</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,6 +282,7 @@
     <MESSAGE value="others5" />
     <MESSAGE value="others6" />
     <MESSAGE value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin" />
+    <MESSAGE value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin2" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin2" />
   </component>
 </project>
