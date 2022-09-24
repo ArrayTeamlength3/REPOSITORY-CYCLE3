@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="others6">
+    <list default="true" id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProyectoArray/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoArray/pom.xml" afterDir="false" />
     </list>
@@ -231,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664059179714</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin">
+      <created>1664061108265</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1664061108265</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -266,6 +273,7 @@
     <MESSAGE value="others4" />
     <MESSAGE value="others5" />
     <MESSAGE value="others6" />
-    <option name="LAST_COMMIT_MESSAGE" value="others6" />
+    <MESSAGE value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin" />
   </component>
 </project>
