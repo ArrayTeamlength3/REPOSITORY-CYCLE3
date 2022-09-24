@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="conexion a supabase">
-      <change beforePath="$PROJECT_DIR$/ProyectoArray/src/main/java/com/Ciclo3/ProyectoArray/ProyectoArrayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ProyectoArray/src/main/java/com/Ciclo3/ProyectoArray/ProyectoArrayApplication.java" afterDir="false" />
-    </list>
+    <list default="true" id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="add" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -138,7 +137,28 @@
       <option name="project" value="LOCAL" />
       <updated>1664058369276</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="all">
+      <created>1664058469593</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664058469593</updated>
+    </task>
+    <task id="LOCAL-00010" summary="login page">
+      <created>1664058520544</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664058520544</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add">
+      <created>1664058644291</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664058644291</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -160,6 +180,9 @@
     <MESSAGE value="release branch" />
     <MESSAGE value="ultimos ajustes" />
     <MESSAGE value="conexion a supabase" />
-    <option name="LAST_COMMIT_MESSAGE" value="conexion a supabase" />
+    <MESSAGE value="all" />
+    <MESSAGE value="login page" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
