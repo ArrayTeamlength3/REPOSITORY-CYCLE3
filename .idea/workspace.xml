@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;configuraciones finales">
-      <change afterPath="$PROJECT_DIR$/ProyectoArray/Procfile" afterDir="false" />
+    <list default="true" id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="0.0.1-SNAPSHOT.jar">
+      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,11 @@
     &quot;last_opened_file_path&quot;: &quot;T:/MEGA2/00GITHUB/REPOSITORY-CYCLE3&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="T:\MEGA2\00GITHUB\REPOSITORY-CYCLE3" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="ProyectoArray" />
@@ -251,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664061935694</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="0.0.1-SNAPSHOT.jar">
+      <created>1664062206747</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1664062206747</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,6 +301,7 @@
     <MESSAGE value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin" />
     <MESSAGE value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin2" />
     <MESSAGE value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;configuraciones finales" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;configuraciones finales" />
+    <MESSAGE value="0.0.1-SNAPSHOT.jar" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.0.1-SNAPSHOT.jar" />
   </component>
 </project>
