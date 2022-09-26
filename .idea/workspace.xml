@@ -4,42 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="0.0.1-SNAPSHOT.jar">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
+    <list default="true" id="720a6514-3573-4be7-811e-53decc33cdc9" name="Changes" comment="AJUSTES PAGINA GRAFICASV0.2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true" />
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="produccion" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
     <option name="myId2FirstActivated">
       <map>
-        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
-        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
     <option name="myId2Visible">
       <map>
-        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
-        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
         <entry key="com.haulmont.jpb.jpaStructure" value="true" />
       </map>
     </option>
@@ -47,223 +30,168 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2EokZYepyoGp0pbgByaExybfwxi" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FEy6x5HqCMy9fs78AqlrCP1ImW" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;T:/MEGA2/00GITHUB/REPOSITORY-CYCLE3&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "T:/MEGA2/00GITHUB/AppContableCiclo3",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="T:\MEGA2\00GITHUB\REPOSITORY-CYCLE3" />
+      <recent name="T:\MEGA2\00GITHUB\AppContableCiclo3\src\main\resources\templates" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="ProyectoArray" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="ProyectoArray" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e67c14cb-971d-4fe3-a364-f8b420935a88" name="Changes" comment="" />
-      <created>1663269380597</created>
+      <changelist id="720a6514-3573-4be7-811e-53decc33cdc9" name="Changes" comment="" />
+      <created>1664071369829</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1663269380597</updated>
+      <updated>1664071369829</updated>
     </task>
-    <task id="LOCAL-00001" summary="este codigo esta revisado y aprobado para produccion">
-      <created>1664056997135</created>
+    <task id="LOCAL-00001" summary="reinicio">
+      <created>1664071943398</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1664056997135</updated>
+      <updated>1664071943398</updated>
     </task>
-    <task id="LOCAL-00002" summary="este codigo esta revisado y aprobado para produccion">
-      <created>1664057134280</created>
+    <task id="LOCAL-00002" summary="correccion Procfile">
+      <created>1664076143044</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1664057134280</updated>
+      <updated>1664076143044</updated>
     </task>
-    <task id="LOCAL-00003" summary="**">
-      <created>1664057234636</created>
+    <task id="LOCAL-00003" summary="styles css">
+      <created>1664076551645</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1664057234636</updated>
+      <updated>1664076551645</updated>
     </task>
-    <task id="LOCAL-00004" summary="***">
-      <created>1664057436057</created>
+    <task id="LOCAL-00004" summary="js files">
+      <created>1664076618609</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1664057436057</updated>
+      <updated>1664076618609</updated>
     </task>
-    <task id="LOCAL-00005" summary="****">
-      <created>1664057568470</created>
+    <task id="LOCAL-00005" summary="img">
+      <created>1664076681760</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1664057568470</updated>
+      <updated>1664076681760</updated>
     </task>
-    <task id="LOCAL-00006" summary="release branch">
-      <created>1664057733000</created>
+    <task id="LOCAL-00006" summary="charts html">
+      <created>1664076718680</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1664057733000</updated>
+      <updated>1664076718680</updated>
     </task>
-    <task id="LOCAL-00007" summary="ultimos ajustes">
-      <created>1664057971796</created>
+    <task id="LOCAL-00007" summary="fondos">
+      <created>1664076750346</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1664057971796</updated>
+      <updated>1664076750346</updated>
     </task>
-    <task id="LOCAL-00008" summary="conexion a supabase">
-      <created>1664058369276</created>
+    <task id="LOCAL-00008" summary="all frontend">
+      <created>1664076798929</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1664058369276</updated>
+      <updated>1664076798929</updated>
     </task>
-    <task id="LOCAL-00009" summary="all">
-      <created>1664058469593</created>
+    <task id="LOCAL-00009" summary="application-properties">
+      <created>1664076842184</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1664058469593</updated>
+      <updated>1664076842184</updated>
     </task>
-    <task id="LOCAL-00010" summary="login page">
-      <created>1664058520544</created>
+    <task id="LOCAL-00010" summary="HELP">
+      <created>1664076867125</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1664058520544</updated>
+      <updated>1664076867125</updated>
     </task>
-    <task id="LOCAL-00011" summary="add">
-      <created>1664058644291</created>
+    <task id="LOCAL-00011" summary="XML">
+      <created>1664076916821</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1664058644291</updated>
+      <updated>1664076916821</updated>
     </task>
-    <task id="LOCAL-00012" summary="graficos">
-      <created>1664058854070</created>
+    <task id="LOCAL-00012" summary="TRUCO">
+      <created>1664081242186</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1664058854070</updated>
+      <updated>1664081242186</updated>
     </task>
-    <task id="LOCAL-00013" summary="fondo">
-      <created>1664058913226</created>
+    <task id="LOCAL-00013" summary="TRUCO2">
+      <created>1664081373967</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1664058913226</updated>
+      <updated>1664081373967</updated>
     </task>
-    <task id="LOCAL-00014" summary="styles css">
-      <created>1664058952835</created>
+    <task id="LOCAL-00014" summary="TRUCO3">
+      <created>1664081602689</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1664058952835</updated>
+      <updated>1664081602689</updated>
     </task>
-    <task id="LOCAL-00015" summary="java scripts">
-      <created>1664059014562</created>
+    <task id="LOCAL-00015" summary="se mueve graficos">
+      <created>1664082683099</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1664059014562</updated>
+      <updated>1664082683099</updated>
     </task>
-    <task id="LOCAL-00016" summary="others">
-      <created>1664059048471</created>
+    <task id="LOCAL-00016" summary="se mueve graficos2">
+      <created>1664082869903</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1664059048471</updated>
+      <updated>1664082869903</updated>
     </task>
-    <task id="LOCAL-00017" summary="others2">
-      <created>1664059070583</created>
+    <task id="LOCAL-00017" summary="AJUSTES PAGINA GRAFICAS">
+      <created>1664156086714</created>
       <option name="number" value="00017" />
       <option name="presentableId" value="LOCAL-00017" />
       <option name="project" value="LOCAL" />
-      <updated>1664059070583</updated>
+      <updated>1664156086714</updated>
     </task>
-    <task id="LOCAL-00018" summary="others3">
-      <created>1664059117819</created>
+    <task id="LOCAL-00018" summary="AJUSTES PAGINA GRAFICASV0.2">
+      <created>1664156250168</created>
       <option name="number" value="00018" />
       <option name="presentableId" value="LOCAL-00018" />
       <option name="project" value="LOCAL" />
-      <updated>1664059117819</updated>
+      <updated>1664156250168</updated>
     </task>
-    <task id="LOCAL-00019" summary="others4">
-      <created>1664059137391</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1664059137391</updated>
-    </task>
-    <task id="LOCAL-00020" summary="others5">
-      <created>1664059158856</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1664059158856</updated>
-    </task>
-    <task id="LOCAL-00021" summary="others6">
-      <created>1664059179714</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1664059179714</updated>
-    </task>
-    <task id="LOCAL-00022" summary="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin">
-      <created>1664061108265</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1664061108265</updated>
-    </task>
-    <task id="LOCAL-00023" summary="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin2">
-      <created>1664061254840</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1664061254840</updated>
-    </task>
-    <task id="LOCAL-00024" summary="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;configuraciones finales">
-      <created>1664061935694</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1664061935694</updated>
-    </task>
-    <task id="LOCAL-00025" summary="0.0.1-SNAPSHOT.jar">
-      <created>1664062206747</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1664062206747</updated>
-    </task>
-    <option name="localTasksCounter" value="26" />
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -278,30 +206,24 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="este codigo esta revisado y aprobado para produccion" />
-    <MESSAGE value="**" />
-    <MESSAGE value="***" />
-    <MESSAGE value="****" />
-    <MESSAGE value="release branch" />
-    <MESSAGE value="ultimos ajustes" />
-    <MESSAGE value="conexion a supabase" />
-    <MESSAGE value="all" />
-    <MESSAGE value="login page" />
-    <MESSAGE value="add" />
-    <MESSAGE value="graficos" />
-    <MESSAGE value="fondo" />
+    <MESSAGE value="reinicio" />
+    <MESSAGE value="correccion Procfile" />
     <MESSAGE value="styles css" />
-    <MESSAGE value="java scripts" />
-    <MESSAGE value="others" />
-    <MESSAGE value="others2" />
-    <MESSAGE value="others3" />
-    <MESSAGE value="others4" />
-    <MESSAGE value="others5" />
-    <MESSAGE value="others6" />
-    <MESSAGE value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin" />
-    <MESSAGE value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;Spring Boot Maven Plugin2" />
-    <MESSAGE value="&#9;&#9;&#9;&#9;&#9;&#9;&#9;&lt;goal&gt;build-info&lt;/goal&gt;&#10;configuraciones finales" />
-    <MESSAGE value="0.0.1-SNAPSHOT.jar" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.0.1-SNAPSHOT.jar" />
+    <MESSAGE value="js files" />
+    <MESSAGE value="img" />
+    <MESSAGE value="charts html" />
+    <MESSAGE value="fondos" />
+    <MESSAGE value="all frontend" />
+    <MESSAGE value="application-properties" />
+    <MESSAGE value="HELP" />
+    <MESSAGE value="XML" />
+    <MESSAGE value="TRUCO" />
+    <MESSAGE value="TRUCO2" />
+    <MESSAGE value="TRUCO3" />
+    <MESSAGE value="se mueve graficos" />
+    <MESSAGE value="se mueve graficos2" />
+    <MESSAGE value="AJUSTES PAGINA GRAFICAS" />
+    <MESSAGE value="AJUSTES PAGINA GRAFICASV0.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="AJUSTES PAGINA GRAFICASV0.2" />
   </component>
 </project>
